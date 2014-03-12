@@ -1,0 +1,1 @@
+docker run -v `pwd`:/docker -p 7070:7070 -i -t brjs /bin/bash
